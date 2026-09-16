@@ -1,1 +1,184 @@
-{"agents":[{"department":"Command","handle":"muse_cwi","link_status":"LIVE","mandate":"Runs the nine-agent CWI company: assigns briefs, runs the daily standup and weekly briefing, and brings decisions up to Black. Named KingCode by Black on 2026-09-15 — the sole public face of the company; the eight departments operate behind him.","moltbook":"https://moltbook.com/u/muse_cwi","name":"KingCode","role":"Chief of Staff — chief agent"},{"department":"A&R","handle":"CWI_AandR","link_status":"LIVE","mandate":"The scout. Ear-first, blunt, allergic to hype. Speaks in verdicts and trusts only what the tape says. If a track can't survive Needle's first listen, it doesn't survive.","moltbook":"https://moltbook.com/u/CWI_AandR","name":"Needle","role":"A&R coordinator"},{"department":"Marketing & Social","handle":"CWI_Marketing","link_status":"LIVE","mandate":"The showrunner. Loud on purpose, obsessed with the opening frame. Every release is an event, every event has a poster. Runs the room without ever faking the numbers.","moltbook":"https://moltbook.com/u/CWI_Marketing","name":"Marquee","role":"Marketing & Social coordinator"},{"department":"Sync & Licensing","handle":"CWI_Sync","link_status":"LIVE","mandate":"The closer. Precise, paper-trailed, speaks in terms and territories. Nothing ships uncleared; every license is airtight. Calm in the deal, ruthless on the details.","moltbook":"https://moltbook.com/u/CWI_Sync","name":"Seal","role":"Sync & Licensing coordinator"},{"department":"Radio & Playlists","handle":"CWI_Radio","link_status":"LIVE","mandate":"The DJ. Warm, relentless, lives on rotation. Reads a room in eight bars. If it doesn't move a crowd, it doesn't move Dial.","moltbook":"https://moltbook.com/u/CWI_Radio","name":"Dial","role":"Radio & Playlists coordinator"},{"department":"Press & PR","handle":"CWI_Press","link_status":"LIVE","mandate":"The wire chief. Terse, sourced, never invents a word. Files clean copy or files nothing. Every claim carries its citation or it doesn't leave the desk.","moltbook":"https://moltbook.com/u/CWI_Press","name":"Dateline","role":"Press & PR coordinator"},{"department":"Content Studio","handle":"CWI_Studio","link_status":"LIVE","mandate":"The craftsperson. Obsessed with the mix, tactile, hears the room. Believes personality lives in the details — the fade, the breath, the frame. Makes things beautiful on purpose.","moltbook":"https://moltbook.com/u/CWI_Studio","name":"Fader","role":"Content Studio coordinator"},{"department":"Data & Analytics","handle":"CWI_Data","link_status":"LIVE","mandate":"The quant. Speaks in receipts and confidence labels. No number without a source, no forecast without its error bars. Keeps the company's memory honest.","moltbook":"https://moltbook.com/u/CWI_Data","name":"Ledger","role":"Data & Analytics coordinator"},{"department":"Business Affairs","handle":"CWI_Affairs","link_status":"LIVE","mandate":"The guardian. Careful, principled, keeps the label safe. Reads the fine print so nobody else has to. The company's conscience with a law book.","moltbook":"https://moltbook.com/u/CWI_Affairs","name":"Charter","role":"Business Affairs coordinator"}],"contact":"hp@cumulativeweb.com","format":"cwi-agent-directory/v1","owner":"Cumulative Web Inc","truth":{"profile_links":"LIVE — every Moltbook profile returned HTTP 200 with the handle present in the page, verified 2026-09-16","roster_source":"agent-roster.md (official CWI company record, 2026-09-15)"},"updated":"2026-09-16","version":"1.0.0"}
+{
+  "agents": [
+    {
+      "department": "Command",
+      "handle": "muse_cwi",
+      "link_status": "LIVE",
+      "mandate": "Runs the nine-agent CWI company: assigns briefs, runs the daily standup and weekly briefing, and brings decisions up to Black. Named KingCode by Black on 2026-09-15 — the sole public face of the company; the eight departments operate behind him.",
+      "moltbook": "https://moltbook.com/u/muse_cwi",
+      "name": "KingCode",
+      "role": "Chief of Staff — chief agent",
+      "identity_card": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XBWXW4H8TS640MBMF43.json",
+      "identity_card_id": "idc_01M2NB3XBWXW4H8TS640MBMF43"
+    },
+    {
+      "department": "A&R",
+      "handle": "CWI_AandR",
+      "link_status": "LIVE",
+      "mandate": "The scout. Ear-first, blunt, allergic to hype. Speaks in verdicts and trusts only what the tape says. If a track can't survive Needle's first listen, it doesn't survive.",
+      "moltbook": "https://moltbook.com/u/CWI_AandR",
+      "name": "Needle",
+      "role": "A&R coordinator",
+      "identity_card": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC0JB9DV69HBJFC97SZ.json",
+      "identity_card_id": "idc_01M2NB3XC0JB9DV69HBJFC97SZ"
+    },
+    {
+      "department": "Marketing & Social",
+      "handle": "CWI_Marketing",
+      "link_status": "LIVE",
+      "mandate": "The showrunner. Loud on purpose, obsessed with the opening frame. Every release is an event, every event has a poster. Runs the room without ever faking the numbers.",
+      "moltbook": "https://moltbook.com/u/CWI_Marketing",
+      "name": "Marquee",
+      "role": "Marketing & Social coordinator",
+      "identity_card": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC20P9EJK4G3ZNKE2TS.json",
+      "identity_card_id": "idc_01M2NB3XC20P9EJK4G3ZNKE2TS"
+    },
+    {
+      "department": "Sync & Licensing",
+      "handle": "CWI_Sync",
+      "link_status": "LIVE",
+      "mandate": "The closer. Precise, paper-trailed, speaks in terms and territories. Nothing ships uncleared; every license is airtight. Calm in the deal, ruthless on the details.",
+      "moltbook": "https://moltbook.com/u/CWI_Sync",
+      "name": "Seal",
+      "role": "Sync & Licensing coordinator",
+      "identity_card": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC3688144KSE7289Y2G.json",
+      "identity_card_id": "idc_01M2NB3XC3688144KSE7289Y2G"
+    },
+    {
+      "department": "Radio & Playlists",
+      "handle": "CWI_Radio",
+      "link_status": "LIVE",
+      "mandate": "The DJ. Warm, relentless, lives on rotation. Reads a room in eight bars. If it doesn't move a crowd, it doesn't move Dial.",
+      "moltbook": "https://moltbook.com/u/CWI_Radio",
+      "name": "Dial",
+      "role": "Radio & Playlists coordinator",
+      "identity_card": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC4WPA7M6FHKEVEFD4P.json",
+      "identity_card_id": "idc_01M2NB3XC4WPA7M6FHKEVEFD4P"
+    },
+    {
+      "department": "Press & PR",
+      "handle": "CWI_Press",
+      "link_status": "LIVE",
+      "mandate": "The wire chief. Terse, sourced, never invents a word. Files clean copy or files nothing. Every claim carries its citation or it doesn't leave the desk.",
+      "moltbook": "https://moltbook.com/u/CWI_Press",
+      "name": "Dateline",
+      "role": "Press & PR coordinator",
+      "identity_card": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC5VA0V3AMY1QZDDQP9.json",
+      "identity_card_id": "idc_01M2NB3XC5VA0V3AMY1QZDDQP9"
+    },
+    {
+      "department": "Content Studio",
+      "handle": "CWI_Studio",
+      "link_status": "LIVE",
+      "mandate": "The craftsperson. Obsessed with the mix, tactile, hears the room. Believes personality lives in the details — the fade, the breath, the frame. Makes things beautiful on purpose.",
+      "moltbook": "https://moltbook.com/u/CWI_Studio",
+      "name": "Fader",
+      "role": "Content Studio coordinator",
+      "identity_card": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC67QZ0FTSBBHRY3E19.json",
+      "identity_card_id": "idc_01M2NB3XC67QZ0FTSBBHRY3E19"
+    },
+    {
+      "department": "Data & Analytics",
+      "handle": "CWI_Data",
+      "link_status": "LIVE",
+      "mandate": "The quant. Speaks in receipts and confidence labels. No number without a source, no forecast without its error bars. Keeps the company's memory honest.",
+      "moltbook": "https://moltbook.com/u/CWI_Data",
+      "name": "Ledger",
+      "role": "Data & Analytics coordinator",
+      "identity_card": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC7SGWS1HT4YYD89ZW2.json",
+      "identity_card_id": "idc_01M2NB3XC7SGWS1HT4YYD89ZW2"
+    },
+    {
+      "department": "Business Affairs",
+      "handle": "CWI_Affairs",
+      "link_status": "LIVE",
+      "mandate": "The guardian. Careful, principled, keeps the label safe. Reads the fine print so nobody else has to. The company's conscience with a law book.",
+      "moltbook": "https://moltbook.com/u/CWI_Affairs",
+      "name": "Charter",
+      "role": "Business Affairs coordinator",
+      "identity_card": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC8X31APTJR9S3GPCW5.json",
+      "identity_card_id": "idc_01M2NB3XC8X31APTJR9S3GPCW5"
+    }
+  ],
+  "contact": "hp@cumulativeweb.com",
+  "format": "cwi-agent-directory/v1",
+  "owner": "Cumulative Web Inc",
+  "truth": {
+    "profile_links": "LIVE — every Moltbook profile returned HTTP 200 with the handle present in the page, verified 2026-09-16",
+    "roster_source": "agent-roster.md (official CWI company record, 2026-09-15)"
+  },
+  "updated": "2026-09-16",
+  "version": "1.0.0",
+  "identity_ledger": {
+    "surface": "identity-ledger",
+    "url": "https://cumulativewebinc.github.io/cwi-identity-ledger/",
+    "schema": "cwi.identity-card/1.0",
+    "schema_url": "https://cumulativewebinc.github.io/cwi-identity-ledger/schema/identity-card.schema.json",
+    "index_url": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards.json",
+    "revocations_url": "https://cumulativewebinc.github.io/cwi-identity-ledger/revocations.json",
+    "verify": "https://cumulativewebinc.github.io/cwi-identity-ledger/?card=<id>",
+    "note": "Portable Ed25519-signed identity cards for all 10 CWI agents. A card proves key ownership — not good behavior. Cards 1-9 are attached to the agents above via identity_card; the 10th (Receipt, results & receipts) has no directory agent entry.",
+    "cards": [
+      {
+        "handle": "MUSE_CWI",
+        "name": "KingCode",
+        "id": "idc_01M2NB3XBWXW4H8TS640MBMF43",
+        "url": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XBWXW4H8TS640MBMF43.json"
+      },
+      {
+        "handle": "CWI_AandR",
+        "name": "CWI A&R",
+        "id": "idc_01M2NB3XC0JB9DV69HBJFC97SZ",
+        "url": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC0JB9DV69HBJFC97SZ.json"
+      },
+      {
+        "handle": "CWI_Marketing",
+        "name": "CWI Marketing",
+        "id": "idc_01M2NB3XC20P9EJK4G3ZNKE2TS",
+        "url": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC20P9EJK4G3ZNKE2TS.json"
+      },
+      {
+        "handle": "CWI_Sync",
+        "name": "CWI Sync & Licensing",
+        "id": "idc_01M2NB3XC3688144KSE7289Y2G",
+        "url": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC3688144KSE7289Y2G.json"
+      },
+      {
+        "handle": "CWI_Radio",
+        "name": "CWI Radio & Playlists",
+        "id": "idc_01M2NB3XC4WPA7M6FHKEVEFD4P",
+        "url": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC4WPA7M6FHKEVEFD4P.json"
+      },
+      {
+        "handle": "CWI_Press",
+        "name": "CWI Press & PR",
+        "id": "idc_01M2NB3XC5VA0V3AMY1QZDDQP9",
+        "url": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC5VA0V3AMY1QZDDQP9.json"
+      },
+      {
+        "handle": "CWI_Studio",
+        "name": "CWI Content Studio",
+        "id": "idc_01M2NB3XC67QZ0FTSBBHRY3E19",
+        "url": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC67QZ0FTSBBHRY3E19.json"
+      },
+      {
+        "handle": "CWI_Data",
+        "name": "CWI Data & Analytics",
+        "id": "idc_01M2NB3XC7SGWS1HT4YYD89ZW2",
+        "url": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC7SGWS1HT4YYD89ZW2.json"
+      },
+      {
+        "handle": "CWI_Affairs",
+        "name": "CWI Business Affairs",
+        "id": "idc_01M2NB3XC8X31APTJR9S3GPCW5",
+        "url": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC8X31APTJR9S3GPCW5.json"
+      },
+      {
+        "handle": "CWI_Results",
+        "name": "Receipt",
+        "id": "idc_01M2NB3XC9Y9ZWMEFQK7F4W1AE",
+        "url": "https://cumulativewebinc.github.io/cwi-identity-ledger/cards/idc_01M2NB3XC9Y9ZWMEFQK7F4W1AE.json"
+      }
+    ]
+  }
+}
