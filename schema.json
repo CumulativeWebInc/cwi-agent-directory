@@ -11,5 +11,6 @@
     "url": "https://cumulativeweb.com/"
   },
   "description": "Directory of the 9 CWI agents with verified Moltbook links and a machine-readable agents.json.",
-  "datePublished": "2026-09-16"
+  "datePublished": "2026-09-16",
+  "schema_version": "1.0.0"
 }
